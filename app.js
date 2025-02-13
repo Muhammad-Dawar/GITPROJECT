@@ -1,0 +1,3 @@
+function addtocart(){
+    alert('addtocart')
+}
